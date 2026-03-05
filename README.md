@@ -54,3 +54,12 @@ sudo systemctl status ssh
 
 Resultado:
 <img width="905" height="292" alt="image" src="https://github.com/user-attachments/assets/e0f3c009-84e5-4574-b62e-b1483c3120a2" />
+
+## Teste de SSH
+
+ssh usuario@10.0.2.15
+
+Resultado: conexão realizada com sucesso.
+
+<img width="761" height="511" alt="image" src="https://github.com/user-attachments/assets/ee3f027e-8c75-44a3-bebd-35d390dd5f0c" />
+
